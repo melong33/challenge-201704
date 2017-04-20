@@ -9,6 +9,9 @@ namespace MyRandomUser
 {
 	public partial class App : Application
 	{
+        /// <summary>
+        /// 
+        /// </summary>
 		public App ()
 		{
 			InitializeComponent();
